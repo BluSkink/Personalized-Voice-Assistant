@@ -2,3 +2,5 @@ speechrecognition
 pyttsx3
 pyjokes
 requests
+pyaudio
+pywin32
